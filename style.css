@@ -8,3 +8,24 @@ body
 
 
 }
+#wrapper
+{
+
+
+    border: 1px solid;
+    padding: 10px;
+    width: 600;
+    margin:auto;
+}
+header
+{
+ height: 200px;
+ border: 1px solid aliceblue;
+ background-color: brown;
+}
+nav
+{
+    border: 1px solid aliceblue;
+    background-color: brown;
+    height: 50px;
+}
